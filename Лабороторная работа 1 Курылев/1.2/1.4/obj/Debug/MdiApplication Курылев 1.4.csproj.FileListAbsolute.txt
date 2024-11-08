@@ -1,0 +1,11 @@
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\bin\Debug\MdiApplication Курылев 1.4.exe.config
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\bin\Debug\MdiApplication Курылев 1.4.exe
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\bin\Debug\MdiApplication Курылев 1.4.pdb
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication Курылев 1.4.csproj.AssemblyReference.cache
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication_Курылев_1._4.ChildForm.resources
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication_Курылев_1._4.ParentForm.resources
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication_Курылев_1._4.Properties.Resources.resources
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication Курылев 1.4.csproj.GenerateResource.cache
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication Курылев 1.4.csproj.CoreCompileInputs.cache
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication Курылев 1.4.exe
+C:\Users\dkurylev\source\repos\MdiApplication Курылев 1.4\obj\Debug\MdiApplication Курылев 1.4.pdb
