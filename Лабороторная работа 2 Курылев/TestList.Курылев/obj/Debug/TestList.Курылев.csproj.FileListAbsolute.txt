@@ -1,0 +1,10 @@
+C:\Users\dkurylev\source\repos\TestList.Курылев\bin\Debug\TestList.Курылев.exe.config
+C:\Users\dkurylev\source\repos\TestList.Курылев\bin\Debug\TestList.Курылев.exe
+C:\Users\dkurylev\source\repos\TestList.Курылев\bin\Debug\TestList.Курылев.pdb
+C:\Users\dkurylev\source\repos\TestList.Курылев\obj\Debug\TestList.Курылев.csproj.AssemblyReference.cache
+C:\Users\dkurylev\source\repos\TestList.Курылев\obj\Debug\TestList.Курылев.Form1.resources
+C:\Users\dkurylev\source\repos\TestList.Курылев\obj\Debug\TestList.Курылев.Properties.Resources.resources
+C:\Users\dkurylev\source\repos\TestList.Курылев\obj\Debug\TestList.Курылев.csproj.GenerateResource.cache
+C:\Users\dkurylev\source\repos\TestList.Курылев\obj\Debug\TestList.Курылев.csproj.CoreCompileInputs.cache
+C:\Users\dkurylev\source\repos\TestList.Курылев\obj\Debug\TestList.Курылев.exe
+C:\Users\dkurylev\source\repos\TestList.Курылев\obj\Debug\TestList.Курылев.pdb

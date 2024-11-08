@@ -1,0 +1,10 @@
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\bin\Debug\WinQuestion.Курылев.exe.config
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\bin\Debug\WinQuestion.Курылев.exe
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\bin\Debug\WinQuestion.Курылев.pdb
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\obj\Debug\WinQuestion.Курылев.csproj.AssemblyReference.cache
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\obj\Debug\WinQuestion.Курылев.Form1.resources
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\obj\Debug\WinQuestion.Курылев.Properties.Resources.resources
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\obj\Debug\WinQuestion.Курылев.csproj.GenerateResource.cache
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\obj\Debug\WinQuestion.Курылев.csproj.CoreCompileInputs.cache
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\obj\Debug\WinQuestion.Курылев.exe
+C:\Users\dkurylev\source\repos\WinQuestion.Курылев\obj\Debug\WinQuestion.Курылев.pdb
