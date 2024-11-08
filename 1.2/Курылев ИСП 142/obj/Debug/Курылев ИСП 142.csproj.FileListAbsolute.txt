@@ -1,0 +1,10 @@
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\bin\Debug\Курылев ИСП 142.exe.config
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\bin\Debug\Курылев ИСП 142.exe
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\bin\Debug\Курылев ИСП 142.pdb
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\obj\Debug\Курылев ИСП 142.csproj.AssemblyReference.cache
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\obj\Debug\Курылев_ИСП_142.Form1.resources
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\obj\Debug\Курылев_ИСП_142.Properties.Resources.resources
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\obj\Debug\Курылев ИСП 142.csproj.GenerateResource.cache
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\obj\Debug\Курылев ИСП 142.csproj.CoreCompileInputs.cache
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\obj\Debug\Курылев ИСП 142.exe
+C:\Users\dkurylev\source\repos\Курылев ИСП 142\Курылев ИСП 142\obj\Debug\Курылев ИСП 142.pdb
