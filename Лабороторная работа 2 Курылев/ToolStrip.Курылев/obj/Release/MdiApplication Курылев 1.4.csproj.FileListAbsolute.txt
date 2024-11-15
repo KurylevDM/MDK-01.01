@@ -1,0 +1,11 @@
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\bin\Release\MdiApplication Курылев 1.4.exe.config
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\bin\Release\MdiApplication Курылев 1.4.exe
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\bin\Release\MdiApplication Курылев 1.4.pdb
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication Курылев 1.4.csproj.AssemblyReference.cache
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication_Курылев_1._4.ChildForm.resources
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication_Курылев_1._4.ParentForm.resources
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication_Курылев_1._4.Properties.Resources.resources
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication Курылев 1.4.csproj.GenerateResource.cache
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication Курылев 1.4.csproj.CoreCompileInputs.cache
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication Курылев 1.4.exe
+C:\Users\dkurylev\Desktop\Лабороторная работа 1 Курылев\1.4\obj\Release\MdiApplication Курылев 1.4.pdb
