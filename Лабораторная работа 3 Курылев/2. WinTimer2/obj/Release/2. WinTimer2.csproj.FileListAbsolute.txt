@@ -1,0 +1,11 @@
+C:\Users\Kurylev\source\repos\2. WinTimer2\bin\Release\_2.WinTimer2.exe.config
+C:\Users\Kurylev\source\repos\2. WinTimer2\bin\Release\_2.WinTimer2.exe
+C:\Users\Kurylev\source\repos\2. WinTimer2\bin\Release\_2.WinTimer2.pdb
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\2. WinTimer2.csproj.AssemblyReference.cache
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\_2.WinTimer2.Form1.resources
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\_2.WinTimer2.Properties.Resources.resources
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\_2.WinTimer2.UserControlTimer2.resources
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\2. WinTimer2.csproj.GenerateResource.cache
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\2. WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\_2.WinTimer2.exe
+C:\Users\Kurylev\source\repos\2. WinTimer2\obj\Release\_2.WinTimer2.pdb
